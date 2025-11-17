@@ -1,0 +1,21 @@
+{
+  "samples": {
+    "piano": {
+      "url": "piano.mp3",
+      "description": "Piano melody from Reap instrumental"
+    },
+    "drums": {
+      "url": "drums.mp3",
+      "description": "Drums groove from Reap"
+    },
+    "bass": {
+      "url": "bass.mp3",
+      "description": "Bass line from Reap"
+    },
+    "other": {
+      "url": "other.mp3",
+      "description": "Pads and other elements from Reap"
+    }
+  },
+  "version": "1.0"
+}
